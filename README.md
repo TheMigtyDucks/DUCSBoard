@@ -1,6 +1,6 @@
 # Introducing the DUCC
 
-The Datalogger Utility for Citizen Collaboration (DUCC) is a nascent datalogging platform aiming to streamline the sensor-to-database pipeline for grassroots water quality advocates and citizen scientists.
+The Data-logger Utility for Citizen Collaboration (DUCC) is a nascent datalogging platform aiming to streamline the sensor-to-database pipeline for grassroots water quality advocates and citizen scientists.
 
 This first iteration of the design was born of the ECE4872 Senior Design course at The Georgia Institute of technology in Spring 2021. It is a low-cost and beginner-friendly embedded sensing unit that can be used to capture four data points (pH, turbidity, temperature, and TDS) to monitor water quality. 
 
