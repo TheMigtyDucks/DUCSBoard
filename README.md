@@ -11,16 +11,16 @@ Watch a short demonstration video [here](https://www.youtube.com/watch?v=ByALw4e
 # User Guide
 Contents
 - [Parts List](#Parts-List)
-- [Assembly Guide](#Assembly-Guide)
-- [Software Guide](#Software-Guide)
-- [Deployment Guide](#Deployment-Guide)
+- [Step 1: Hardware Assembly](#Assembly-Guide)
+- [Step 2: Program the DUCC](#Software-Guide)
+- [Step 3: Deploy](#Deployment-Guide)
 
-### Parts List
+## Parts List
 | Component  | Cost | Notes |
 | ------------- | ------------- | ------------- |
-| [Adafruit HUZZAH32 – ESP32 Feather Board](https://www.adafruit.com/product/3591) | $21.95 | Be sure to order the version with stacking headers! |
+| [Adafruit HUZZAH32 – ESP32 Feather Board](https://www.adafruit.com/product/3591) | $21.95 | Be sure to order the version with **stacking headers**! |
 | [Adafruit 2500 mAh LiPo Battery](https://www.adafruit.com/product/328) | $14.95 | Alternatively use the [4400 mAh version](https://www.adafruit.com/product/354) for $19.95 |
-| [DS18B20 Sensor Kit](https://www.dfrobot.com/product-1354.html)  | $7.50 | Be sure to order the sensor *kit*, not the standalone sensor! |
+| [DS18B20 Sensor Kit](https://www.dfrobot.com/product-1354.html)  | $7.50 | Be sure to order the sensor **kit**, not the standalone sensor! |
 | [Turbidity Sensor ](https://www.dfrobot.com/product-1394.html)  |  $9.90 |  |
 | [TDS Sensor](https://www.dfrobot.com/product-1662.html)  | $11.80 |  |
 | [pH Sensor](https://www.dfrobot.com/product-1025.html)  | $29.50 |  |
@@ -28,10 +28,21 @@ Contents
 | [Boost Converter](https://www.amazon.com/gp/product/B08DNS3R1Y/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)  | $6.99 |  |
 | [Mini Breadboards](https://www.amazon.com/gp/product/B0146MGBWI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  | $6.98 |  |
 
-### Assembly Guide
+## Assembly Guide
+TODO
 
-### Software Guide
+## Software Guide
+### 1. Download the Arduino IDE
+  - Download and install the [Arduino IDE](https://www.arduino.cc/en/software) from the Arduino website **NOT the Windows App**.
+  - Install the ESP32 using the IDE’s [board manager](https://github.com/espressif/arduino-esp32/blob/master/docs/arduino-ide/boards_manager.md).
+  - Install the sketch data uploader extension.
+### 2. Download the DUCC Embedded App
+  - Download this repository and move the ```embedded_app``` folder into your local Arduino folder. Open embedded_app/embedded_app.ino in the Arduino IDE.
+### 3. Install the Sensor Library
+  - Follow the instructions [here](https://github.com/TheMightyDUCCs/sensors).
+### 4. Install Bluefruit Connect
+  - Install the [Bluefruit Connect](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en_US&gl=US) app on your phone or orther personal device.
 
-### Deployment Guide
+## Deployment Guide
 
 TODO: Include instructions on potential multi-node configurations for up-stream down-stream experiments and ideas for applications.
