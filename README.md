@@ -16,6 +16,15 @@ Contents
 - [Deployment Guide](#Deployment-Guide)
 
 ### Parts List
+| Component  | Cost | Notes |
+| ------------- | ------------- | ------------- |
+| [DS18B20 Sensor Kit](https://www.dfrobot.com/product-1354.html)  | $7.50 | Be sure to order the sensor *kit*, not the standalone sensor! |
+| [Turbidity Sensor ](https://www.dfrobot.com/product-1394.html)  |  $9.90 |  |
+| [TDS Sensor](https://www.dfrobot.com/product-1662.html)  | $11.80 |  |
+| [pH Sensor](https://www.dfrobot.com/product-1025.html)  | $29.50 |  |
+| [F-F Jumper Wires]()  |   |  |
+| [Boost Converter]()  |   |  |
+| [Mini Breadboards]()  |   |  |
 
 ### Assembly Guide
 
