@@ -1,14 +1,14 @@
 # Introducing the DUCC
 
-The DUCC is a nascent datalogging platform aiming to streamline the sensor-to-database pipeline for grassroots water quality advocates and citizen scientists.
+The Datalogger Utility for Citizen Collaboration (DUCC) is a nascent datalogging platform aiming to streamline the sensor-to-database pipeline for grassroots water quality advocates and citizen scientists.
 
-This first iteration of the design was born of the ECE4872 Senior Design course at The Georgia Institute of technology in Spring 2021. 
+This first iteration of the design was born of the ECE4872 Senior Design course at The Georgia Institute of technology in Spring 2021. It is a low-cost and beginner-friendly embedded sensing unit that can be used to capture four data points (pH, turbidity, temperature, and TDS) to monitor water quality. 
 
-This is an initial proof of concept, and further development is needed before this device is ready for adoption. Specific areas that need attention include the power supply, integration with Adafruit.io, and sensor calibration/verification. Additionally, the use of an alternative microcontroller should be explored as the Adafruit Huzzah32 has proven to be less compatible with this application than expected.
+This is an initial proof of concept, and further development is needed before this device is ready widespread use. Specific areas that need attention include the power supply, integration with Adafruit.io, and sensor calibration/verification. Additionally, the use of an alternative microcontroller should be explored as the Adafruit Huzzah32 has proven to be less compatible with this application than expected.
 
 Watch a short demonstration video [here](https://www.youtube.com/watch?v=ByALw4eoFNU&feature=youtu.be)
 
-# User Guide
+# Build Your Own DUCC
 Contents
 - [Parts List](#Parts-List)
 - [Step 1: Hardware Assembly](#Assembly-Guide)
@@ -29,7 +29,9 @@ Contents
 | [Mini Breadboards](https://www.amazon.com/gp/product/B0146MGBWI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  | $6.98 |  |
 
 ## Assembly Guide
-TODO
+1. Identify the 3V and GND pins on your Adafruit Huzzah-32 Feather board. Plug one jumper wire into each. 
+2. Plug the other end of each jumper wire into a miniature breadboard.
+
 
 ## Software Guide
 ### 1. Download the Arduino IDE
