@@ -18,13 +18,15 @@ Contents
 ### Parts List
 | Component  | Cost | Notes |
 | ------------- | ------------- | ------------- |
+| [Adafruit HUZZAH32 – ESP32 Feather Board](https://www.adafruit.com/product/3591) | $21.95 | Be sure to order the version with stacking headers! |
+| [Adafruit 2500 mAh LiPo Battery](https://www.adafruit.com/product/328) | $14.95 | Alternatively use the [4400 mAh version](https://www.adafruit.com/product/354) for $19.95 |
 | [DS18B20 Sensor Kit](https://www.dfrobot.com/product-1354.html)  | $7.50 | Be sure to order the sensor *kit*, not the standalone sensor! |
 | [Turbidity Sensor ](https://www.dfrobot.com/product-1394.html)  |  $9.90 |  |
 | [TDS Sensor](https://www.dfrobot.com/product-1662.html)  | $11.80 |  |
 | [pH Sensor](https://www.dfrobot.com/product-1025.html)  | $29.50 |  |
-| [F-F Jumper Wires]()  |   |  |
-| [Boost Converter]()  |   |  |
-| [Mini Breadboards]()  |   |  |
+| [F-F Jumper Wires](https://www.adafruit.com/product/3633)  | $2.95 |  |
+| [Boost Converter](https://www.amazon.com/gp/product/B08DNS3R1Y/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)  | $6.99 |  |
+| [Mini Breadboards](https://www.amazon.com/gp/product/B0146MGBWI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  | $6.98 |  |
 
 ### Assembly Guide
 
