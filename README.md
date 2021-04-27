@@ -24,7 +24,7 @@ Contents
 | [Turbidity Sensor ](https://www.dfrobot.com/product-1394.html)  |  $9.90 |  |
 | [TDS Sensor](https://www.dfrobot.com/product-1662.html)  | $11.80 |  |
 | [pH Sensor](https://www.dfrobot.com/product-1025.html)  | $29.50 |  |
-| [F-F Jumper Wires](https://www.adafruit.com/product/3633)  | $2.95 |  |
+| [M-M Jumper Wires](https://www.adafruit.com/product/3633)  | $2.95 |  |
 | [Boost Converter](https://www.amazon.com/gp/product/B08DNS3R1Y/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)  | $6.99 |  |
 | [Mini Breadboards](https://www.amazon.com/gp/product/B0146MGBWI/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)  | $6.98 |  |
 
