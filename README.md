@@ -6,7 +6,14 @@ This first iteration of the design was born of the ECE4872 Senior Design course 
 
 This is an initial proof of concept, and further development is needed before this device is ready for adoption. Specific areas that need attention include the power supply, integration with Adafruit.io, and sensor calibration/verification.
 
+Watch a short demonstration video [here](https://www.youtube.com/watch?v=ByALw4eoFNU&feature=youtu.be)
+
 # User Guide
+Contents
+- [Parts List](#Parts-List)
+- Assembly Guide
+- Software Guide
+- Deployment Guide
 
 ### Parts List
 
